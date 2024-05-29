@@ -23,6 +23,6 @@ Your support enables us to continue our work. Here's how you can support us:
 - **Spread the Word**: Share our projects and mission with your network.
 
 ## License
-All projects are released under the [Apache-2.0 license] unless stated otherwise.
+All projects are released under the [Apache-2.0 license](https://github.com/telebirrteamd5/.github/blob/main/LICENSE) unless stated otherwise.
 
 Thank you for visiting our GitHub profile!
